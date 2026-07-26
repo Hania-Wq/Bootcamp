@@ -1,0 +1,23 @@
+{
+  "model_name": "RandomForestPipeline",
+  "versions": {
+    "1.0.0": {
+      "pickle_file": "model_v1.0.0.pkl",
+      "joblib_file": "model_v1.0.0.joblib",
+      "random_state": 42,
+      "timestamp": "2026-07-24T10:34:23.017807"
+    },
+    "1.1.0": {
+      "pickle_file": "model_v1.1.0.pkl",
+      "joblib_file": "model_v1.1.0.joblib",
+      "random_state": 7,
+      "timestamp": "2026-07-24T10:34:23.631272"
+    },
+    "2.0.0": {
+      "pickle_file": "model_v2.0.0.pkl",
+      "joblib_file": "model_v2.0.0.joblib",
+      "random_state": 123,
+      "timestamp": "2026-07-24T10:34:24.238526"
+    }
+  }
+}
